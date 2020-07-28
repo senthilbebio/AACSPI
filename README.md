@@ -1,5 +1,5 @@
 # AACSPI
-An amino acid property based method for identifying solenoid proteins
+An amino acid property based method for identifying the type of repeat (ARM,HEAT,TPR,ANK,LRR or BETA solenoid type) from protein sequence
 
 
 Step 1: Open the AACSPI.R file in editable form.
